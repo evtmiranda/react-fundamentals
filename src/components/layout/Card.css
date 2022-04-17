@@ -18,8 +18,11 @@
 
 .Card .Content {
 	background-color: white;
+	border-radius: 0 0 10px 10px;
 	color: black;
 	padding: 10px;
+	margin: 0;
+	text-align: center;
 
 	flex-grow: 1;
 }

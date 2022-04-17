@@ -1,0 +1,20 @@
+.TabelaProduto table {
+	font-family: arial, sans-serif;
+	border-collapse: collapse;
+	width: 100%;
+}
+
+.TabelaProduto td,
+th {
+	border: 1px solid #dddddd;
+	text-align: left;
+	padding: 8px;
+}
+
+.TabelaProduto th {
+	background-color: gray;
+}
+
+.TabelaProduto .Par {
+	background-color: gainsboro;
+}
