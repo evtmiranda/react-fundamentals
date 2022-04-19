@@ -1,0 +1,22 @@
+.Mega input {
+	font-size: 1.4rem;
+	width: 50px;
+}
+
+.Mega label {
+	margin-right: 10px;
+}
+
+.Mega .NumerosMega {
+	margin: 20px;
+}
+
+.Mega span {
+	background-color: green;
+	color: white;
+
+	margin: 3px;
+	padding: 5px;
+
+	border-radius: 50%;
+}

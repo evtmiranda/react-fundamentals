@@ -2,17 +2,3 @@
 	font-size: 1.4rem;
 	width: 60px;
 }
-
-.Contador button {
-	margin: 15px;
-	height: 30px;
-	width: 30px;
-	border-radius: 50%;
-	background-color: #1499d3;
-
-	border-color: #1499d3;
-	border-style: none;
-
-	color: white;
-	font-size: 1.4rem;
-}

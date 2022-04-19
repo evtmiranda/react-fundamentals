@@ -1,9 +1,16 @@
+import './Botoes.css'
+
 const Botoes = props => {
     return (
-        <div>
-            <button onClick={props.incrementar}>+</button>
-            <button onClick={props.decrementar}>-</button>
-        </div>
+        <>
+            <div className="IncrementarDecrementar">
+                <button onClick={props.setInc}>+</button>
+                <button onClick={props.setDec}>-</button>
+            </div>
+            <div className="Zerar">
+                <button onClick={props.setNumero}>ZERAR</button>
+            </div>
+        </>
     )
 }
 
